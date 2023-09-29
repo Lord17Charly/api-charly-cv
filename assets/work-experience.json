@@ -1,0 +1,38 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "puesto": "Data Scientist",
+      "empresa": "Oracle",
+      "fecha_ini": "08/2020",
+      "fecha_fin": "10/2022",
+      "ciudad": "Buena York",
+      "pais": "Inglaterra",
+      "logros": [
+        {
+          "logro": "gym app for android"
+        },
+        {
+          "logro": "pokem api"
+        }
+      ]
+    },
+{
+  "id": 2,
+  "puesto": "Data Scientist",
+  "empresa": "Oracle",
+  "fecha_ini": "08/2020",
+  "fecha_fin": "10/2022",
+  "ciudad": "Buena York",
+  "pais": "Inglaterra",
+  "logros": [
+    {
+      "logro": "gym app for android"
+    },
+    {
+      "logro": "pokem api"
+    }
+  ]
+}
+]
+}

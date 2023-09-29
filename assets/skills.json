@@ -1,0 +1,33 @@
+{
+    "skills": [
+      {
+        "id": 1,
+        "skill": "Desarrollo de software"
+      },
+      {
+        "id": 2,
+        "skill": "Resolución de problemas de programación"
+      },
+      {
+        "id": 3,
+        "skill": "Diseño de sistemas"
+      },
+      {
+        "id": 4,
+        "skill": "Conocimiento en lenguajes de programación (por ejemplo, Java, Python, C++)"
+      },
+      {
+        "id": 5,
+        "skill": "Pruebas de software y depuración"
+      },
+      {
+        "id": 6,
+        "skill": "Gestión de proyectos de desarrollo de software"
+      },
+      {
+        "id": 7,
+        "skill": "Colaboración en equipos de desarrollo"
+      }
+    ]
+  }
+  

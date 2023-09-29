@@ -1,0 +1,28 @@
+{
+    "intereses": [
+      {
+        "id": 1,
+        "interes": "Programar"
+      },
+      {
+        "id": 2,
+        "interes": "Crear APIs"
+      },
+      {
+        "id": 3,
+        "interes": "Leer libros"
+      },
+      {
+        "id": 4,
+        "interes": "Estudiar"
+      },
+      {
+        "id": 5,
+        "interes": "Desarrollo de Videojuegos"
+      },
+      {
+        "id": 6,
+        "interes": "Programacion Web"
+      }
+    ]
+  }

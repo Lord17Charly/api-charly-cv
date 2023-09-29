@@ -1,0 +1,22 @@
+{
+    "certificaciones": [
+      {
+        "id": 1,
+        "titulo": "Certificación en Seguridad Cibernética",
+        "descripcion": "Certificación avanzada en seguridad cibernética que cubre temas como detección de amenazas, análisis de vulnerabilidades y mitigación de riesgos.",
+        "ano": "2021"
+      },
+      {
+        "id": 2,
+        "titulo": "Certificación en Desarrollo Web Frontend",
+        "descripcion": "Certificación en desarrollo web frontend que incluye HTML, CSS y JavaScript avanzado, así como frameworks populares como React y Angular.",
+        "ano": "2022"
+      },
+      {
+        "id": 3,
+        "titulo": "Certificación de Gestión de Proyectos PMP",
+        "descripcion": "Certificación de Project Management Professional (PMP) que demuestra habilidades avanzadas en la gestión de proyectos según las mejores prácticas de PMI.",
+        "ano": "2020"
+      }
+    ]    
+  }
